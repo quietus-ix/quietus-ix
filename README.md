@@ -1,16 +1,15 @@
-## Hi there 👋
+```
+Salve
 
-<!--
-**quietus-ix/quietus-ix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an average joe aspiring to be a software developer/engineer/architect/dancer.
+Currently learning different technologies. Can adapt (probably).
+Likes coffee. Soon I'll make a digital coffee that people can smell, taste and hear(?).
 
-Here are some ideas to get you started:
+Have questions? Please hesitate to ask.
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: `Javascript` `PHP` `Python` `C#` `Java` `Visual Basic`
+
+Frameworks: `Laravel` `React` `React Native with Expo` `Alpine JS` `Vue`
+
+Libraries: `JQuery`
