@@ -1,8 +1,9 @@
 ```
 Salve
 
-I'm an average joe aspiring to be a software developer/engineer/architect/dancer.
+I'm an average individual aspiring to be a software developer/engineer/architect/dancer.
 Currently learning different technologies. Can adapt (probably).
+I also don't like following to the trend that much like using the latest and trendy languages or frameworks. If I need something done, whatever I use will be used.
 Likes coffee. Soon I'll make a digital coffee that people can smell, taste and hear(?).
 
 Have questions? Please hesitate to ask.
