@@ -9,8 +9,8 @@ Likes coffee. Soon I'll make a digital coffee that people can smell, taste and h
 Have questions? Please hesitate to ask.
 ```
 
-Languages: `Javascript` `PHP` `Python` `C#` `Java` `Visual Basic`
+Languages: `Javascript` `PHP` `Python` `C#` `Java` `Visual Basic` `Kotlin`
 
-Frameworks: `Laravel` `React` `React Native with Expo` `Alpine JS` `Vue`
+Frameworks: `Laravel` `React` `VueJS` `React Native with Expo` `Flutter` `Alpine JS`
 
 Libraries: `JQuery`
